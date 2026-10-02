@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/正文-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![License: MIT](https://img.shields.io/badge/代码-MIT-blue.svg)](LICENSE-CODE)
-[![Status](https://img.shields.io/badge/状态-v0.1%20草稿-orange.svg)]()
+[![Status](https://img.shields.io/badge/状态-v0.5%20正文-blue.svg)]()
 [![Inspired by](https://img.shields.io/badge/参考-HowToLiveBetter-3451b2.svg)](https://github.com/eternity4719/HowToLiveBetter)
 
 ## 这是什么
@@ -42,11 +42,10 @@
 
 ## 当前进度
 
-- ✅ **v0.2**（当前）：12 节各 8 条（**96 条总**）
-- ⏳ v0.5：12 节各 12-15 条
+- ✅ **v0.5**（当前）：12 节各 12 条（**144 条总**）；第 10 节 v1.0 完整 22 条
 - ⏳ v1.0：12 节各 20-30 条 + 在线检索页 + PDF + AI skill
 
-完整正文见 `book/01-不要瞎学.md` 到 `book/12-不要瞎持续.md`（每节 8 条）。
+完整正文见 `book/01-不要瞎学.md` 到 `book/12-不要瞎持续.md`（每节 12 条，第 10 节 22 条）。
 
 > 历史：v0.1 骨架草稿见 `book/_archive/v0.1-draft.md`。
 
